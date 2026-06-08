@@ -44,4 +44,4 @@ SteganoPro adalah aplikasi desktop modern berbasis Windows Forms yang dirancang 
 Proyek ini dibuat untuk tujuan pembelajaran dalam matkul Kriptografi.
 
 ---
-*Dibuat oleh [Nama Kamu]*
+*Dibuat oleh Erlangga Rizky Ramadhani*
